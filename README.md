@@ -1,1 +1,1 @@
-gram-video-downloader-b
+telegram-video-downloader-b
